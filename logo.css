@@ -116,6 +116,7 @@ keyframes transitionIn{
  #menuToggle input:checked~ul {
    transform: scale(1.0, 1.0);
    opacity: 1;
+ }
 body,
 html {
 	height: 100%;
