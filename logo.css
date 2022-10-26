@@ -1,5 +1,5 @@
 
-keyframes transitionIn{
+@keyframes transitionIn{
   from{
    opacity: 0;
    transform: rotateX(-10deg);
@@ -235,6 +235,7 @@ html,body{
 } 
 .Homebutton{
  height: auto;
+ margin-top: 5px  ;
  padding-top: 3px;
  float: left;
  margin-right: 6px;
@@ -281,6 +282,8 @@ html,body{
   text-align: center;
 }
 .Menubutton{
+  margin-top: 8px;
+  margin-right: 6px;
   float: right;
 }
 .center{
